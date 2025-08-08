@@ -1,5 +1,8 @@
-# Key items to discuss
-- upgrade to the next.js 15.x 
-- play more with design of Advocate Cards (introduce photo)
-- proper layout.tsx that is aligned with app vision ( cirrent one might be little off )
-- introduce shadcn ui component library 
+# Key Items to Discuss
+
+- Upgrade to **Next.js 15.x**
+- Refine the design of **Advocate Cards** (include photos, better handling of tags and phone number)
+- Create a **layout.tsx** that aligns with the app’s vision (current one feels slightly off)
+- Introduce the **shadcn/ui** component library
+- Add **TanStack Query** for API call handling and caching
+- Implement **search debounce** for smoother UX
